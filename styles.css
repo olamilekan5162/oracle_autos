@@ -73,12 +73,9 @@ nav ul a:hover {
     gap: 1rem;
 }
 
-.buttons button {
+.buttons .buy {
     padding: 0.3rem 1rem;
     border-radius: 3px;
-}
-
-.buttons .buy {
     background: none;
     border: 1px solid orange;
 }
