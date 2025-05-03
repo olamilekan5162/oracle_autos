@@ -90,7 +90,13 @@ nav ul a:hover {
 
 .buttons .explore {
     background-color: orange;
+    color: black;
+    font-size: small;
+    text-decoration: none;
+    padding: 0.3rem 1rem;
+    border-radius: 3px;
     border: none;
+
 }
 
 .explore:hover {
