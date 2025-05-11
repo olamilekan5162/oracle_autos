@@ -68,7 +68,7 @@ nav ul a:hover {
     gap: 1rem;
 }
 
-.details .buttons {
+/* .details .buttons {
     display: flex;
     gap: 1rem;
 }
@@ -98,7 +98,7 @@ nav ul a:hover {
 
 .explore:hover {
     background-color: rgb(255, 165, 0, 0.8);
-}
+} */
 
 
 .hero .image {
@@ -114,11 +114,13 @@ nav ul a:hover {
 
 .form {
     background-color: #FAFAFA;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+    padding: 10px 40px;
 }
 
+/* 
 .form form{
     width: 50%;
     min-width: 320px;
@@ -157,7 +159,7 @@ fieldset {
 
 .form button:hover {
     background-color: #F2F2F2;
-}
+} */
 
 footer {
     text-align: center;
